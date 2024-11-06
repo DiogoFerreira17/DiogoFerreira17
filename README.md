@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo Ferreira</h1>
-<h3 align="center">Developer from Portugal</h3>
+<h3 align="center">Software developer from Portugal</h3>
 
 - 🔭 I’m currently working on **myself**
 

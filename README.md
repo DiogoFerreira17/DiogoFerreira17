@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Kotlin**
-
-- 🤝 I’m looking for help with **internship**
+- 🌱 I’m currently learning **android**
 
 - 📫 How to reach me **ferreiradiogo094@gmail.com**
 

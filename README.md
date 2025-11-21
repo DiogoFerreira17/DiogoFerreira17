@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diogo Ferreira</h1>
 <h3 align="center">Software developer from Portugal</h3>
 
-- 🔭 I’m currently working on **myself**
+- 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **android**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **ferreiradiogo094@gmail.com**
 
